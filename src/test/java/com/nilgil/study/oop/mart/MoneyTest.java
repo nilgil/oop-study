@@ -1,4 +1,4 @@
-package com.nilgil.study.oop.pay;
+package com.nilgil.study.oop.mart;
 
 import static org.junit.jupiter.api.Assertions.*;
 
