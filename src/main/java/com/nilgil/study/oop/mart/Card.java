@@ -27,4 +27,9 @@ public class Card implements Payment {
         balance = balance.plus(money);
         return balance;
     }
+
+    @Override
+    public Money balance() {
+        return balance;
+    }
 }
